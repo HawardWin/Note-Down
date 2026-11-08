@@ -5,7 +5,7 @@ const noteModel = require('./models/notes.model')
 const app = express()
 
 app.use(express.json())
-app.use( '/note' , noteRouter)
+// app.use( '/note' , noteRouter)
 
 
 
