@@ -1,0 +1,31 @@
+.upperSection{
+    height: 7.5vh;
+    width: 100vw;
+    background-color: rgb(222, 193, 193);
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.upperSection .right {
+    
+    height: 100%;
+    width: 70%;
+
+    color: rgb(0, 0, 0);
+    background-color: #4e901e;
+
+    justify-content: s;
+
+}
+
+
+.upperSection .right .i h3{
+    font-size: 24px;
+} 
+
+.upperSection .right .search {
+    padding: 2.5rem;
+    width: 2.5rem;
+}
